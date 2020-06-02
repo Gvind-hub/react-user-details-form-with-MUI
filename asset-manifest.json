@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-user-details-form-with-MUI/static/css/main.d1bb3c2f.chunk.css",
+    "main.js": "/react-user-details-form-with-MUI/static/js/main.c2c66253.chunk.js",
+    "main.js.map": "/react-user-details-form-with-MUI/static/js/main.c2c66253.chunk.js.map",
+    "runtime-main.js": "/react-user-details-form-with-MUI/static/js/runtime-main.7bf7ab3a.js",
+    "runtime-main.js.map": "/react-user-details-form-with-MUI/static/js/runtime-main.7bf7ab3a.js.map",
+    "static/js/2.c0e53bc2.chunk.js": "/react-user-details-form-with-MUI/static/js/2.c0e53bc2.chunk.js",
+    "static/js/2.c0e53bc2.chunk.js.map": "/react-user-details-form-with-MUI/static/js/2.c0e53bc2.chunk.js.map",
+    "index.html": "/react-user-details-form-with-MUI/index.html",
+    "precache-manifest.31178092ed81e69a4521089adf036537.js": "/react-user-details-form-with-MUI/precache-manifest.31178092ed81e69a4521089adf036537.js",
+    "service-worker.js": "/react-user-details-form-with-MUI/service-worker.js",
+    "static/css/main.d1bb3c2f.chunk.css.map": "/react-user-details-form-with-MUI/static/css/main.d1bb3c2f.chunk.css.map",
+    "static/js/2.c0e53bc2.chunk.js.LICENSE.txt": "/react-user-details-form-with-MUI/static/js/2.c0e53bc2.chunk.js.LICENSE.txt",
+    "static/media/Spinner.svg": "/react-user-details-form-with-MUI/static/media/Spinner.8d8d1232.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bf7ab3a.js",
+    "static/js/2.c0e53bc2.chunk.js",
+    "static/css/main.d1bb3c2f.chunk.css",
+    "static/js/main.c2c66253.chunk.js"
+  ]
+}
